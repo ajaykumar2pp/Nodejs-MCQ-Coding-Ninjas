@@ -6,7 +6,13 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-
+/* body{
+    background-color: #f3f5f3;
+} */
+/* .col-md-6{
+    background-color: #fff;
+    border-radius: 20px;
+} */
 .option{
     background: aliceblue;
     border: 1px solid #84c5fe;
